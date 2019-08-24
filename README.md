@@ -7,6 +7,8 @@ Yazı için ise bir yazıya TextResponsive'yi ekleyerek ve oyunu başlatarak res
 
 # NOT:
 Paketi kurduğunuzda ObjectResponsive'de ve TextResponsive de Width 1920 Height 1080 olarak geçmektedir. Bunun için uygulamanızı veya oyununuzu yaparken kendi kullandığınız canvas'ın genişliğine ve yüksekliğine göre bunu düzenleyiniz.
+Paket Unity Asset Store'de değildir. Paket bu projededir. 
+Kurulum için "Nasıl Kurulur?" inceleyiniz.
 
 # Nasıl Kurulur?
-... adresine giderek paketi kendi projenize dahil edebilirsiniz.
+Gerekli dosyaları indirerek kendi projenize dahil ettiğinizde kurulmuş olacaktır.
